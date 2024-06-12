@@ -1,3 +1,17 @@
 php -v
 php --ini
 php -m
+whoami
+
+Ubuntu version:
+lsb_release -a
+cat /etc/os-release
+
+find /path/to/directory -iname "*.pdf"
+
+command | more
+nano filename
+
+ps -ef
+top / htop
+free -h
